@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything about software engineering field.
 - 😄 I love work with team.
 - ⚡ I am interesting in reading books.
--->
