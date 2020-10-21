@@ -1,4 +1,4 @@
-# Hi there, I'm Kushani Sajinika 👋
+# Hello, I'm Kushani Sajinika 👋
 
 I am an undergraduate of Sabaragamuwa University of Sri Lanka & following B.Sc.(hons) Computing and Information Systems in department of Computing and Information Systems, Faculty of Applied Sciences. 
 Studied A/L in Combined Mathematical Stream.
