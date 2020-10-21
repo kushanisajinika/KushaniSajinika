@@ -1,7 +1,7 @@
 # Hi there, I'm Kushani Sajinika 👋
 
 I am an undergraduate of Sabaragamuwa University of Sri Lanka & following B.Sc.(hons) Computing and Information Systems in department of Computing and Information Systems, Faculty of Applied Sciences. 
-Stidied A/L in Combined Mathematical Stream.
+Studied A/L in Combined Mathematical Stream.
 
 Here are some ideas to get you started:
 
