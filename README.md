@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything about software engineering field.
 - 😄 I love work with team.
 - ⚡ I am interesting in reading books.
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kushanisajinika)](https://github.com/kushanisajinika/github-readme-stats)
