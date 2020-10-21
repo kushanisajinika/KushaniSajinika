@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - ⚡ I am interesting in reading books.
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kushanisajinika)](https://github.com/kushanisajinika/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kushanisajinika&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushanisajinika&show_icons=true&theme=tokyonight)
+
